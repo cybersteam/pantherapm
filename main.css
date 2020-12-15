@@ -1,8 +1,8 @@
 .title {
-  
+  font-family: Codec
   /*font-family: Arial, Helvetica, sans-serif;*/
   font-size: 5vw;
   color: #6699ff
   }
-@font-face { font-family: Delicious; src: url('Delicious-Roman.otf'); } 
-@font-face { font-family: Delicious; font-weight: bold; src: url('Delicious-Bold.otf');}
+@font-face { font-family: Codec; src: url('Codec-Warm-Bold-trial.ttf'); } 
+@font-face { font-family: Codec; font-weight: bold; src: url('Codec-Warm-Bold-trial.ttf');}
