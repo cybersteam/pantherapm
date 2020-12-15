@@ -1,3 +1,6 @@
+body {
+  background-color: #2a3235;
+}
 
 @font-face { font-family: 'Scada'; 
              font-weight: bold; 
