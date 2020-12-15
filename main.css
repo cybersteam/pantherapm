@@ -1,7 +1,7 @@
 
 @font-face { font-family: Codec; 
              font-weight: bold; 
-             src: url('/fonts/Codec-Warm-Bold-trial.ttf');
+             src: url(/fonts/Codec-Warm-Bold-trial.ttf);
            }
 .title {
   font-family: Codec, Fallback, sans-serif;
