@@ -1,5 +1,8 @@
 .title {
-  font-family: Arial, Helvetica, sans-serif;
+  
+  /*font-family: Arial, Helvetica, sans-serif;*/
   font-size: 5vw;
   color: #6699ff
   }
+@font-face { font-family: Delicious; src: url('Delicious-Roman.otf'); } 
+@font-face { font-family: Delicious; font-weight: bold; src: url('Delicious-Bold.otf');}
