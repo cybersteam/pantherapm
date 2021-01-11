@@ -30,7 +30,7 @@ a:link {
 footer.page-footer {
   height: 4em;
   background-color: #446d8c !important;
-  border-top:3px solid #ccc;
+  border-top:3px solid #cccccc;
   min-height: 0;
   z-index: 2;
   width:100%;
