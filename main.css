@@ -28,10 +28,10 @@ a:link {
 }
 
 footer.page-footer {
-  background-color: #01579b !important;
-  border-top:3px solid #66bb6a;
+  height: 2em;
+  background-color: #009ac8 !important;
+  border-top:3px solid #ccc;
   min-height: 0;
-  vertical-align: baseline;
   z-index: 2;
   width:100%;
   box-sizing: border-box;
@@ -39,5 +39,5 @@ footer.page-footer {
   bottom: 0;
 }
 footer-copyright {
-  height: 2em;
+ 
 }
