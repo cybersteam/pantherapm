@@ -38,3 +38,6 @@ footer.page-footer {
   position: fixed;
   bottom: 0;
 }
+footer-copyright {
+  height: 2em;
+}
